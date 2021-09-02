@@ -1,0 +1,31 @@
+*{background-color:#ffffff}
+img{
+	width:300px;
+	height:205px;
+}
+.item{
+	display: inline-block;
+	width: 300px;
+	margin: 10px 10px 0px 10px;
+	text-align:left;
+	border: 1px solid #e2e2e2;
+}
+.description{
+	color: #666666;
+	font-size:15px;
+}
+.caption{
+	color: #333333;
+	font-weight: bold;
+}
+.price{
+	font-size:35px;
+	color: #333333;
+}
+.twenty{
+	font-size:20px;
+}
+p{
+	margin: 30px 0px 30px 25px;
+	font-family: "Roboto";
+}
